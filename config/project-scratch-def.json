@@ -1,7 +1,9 @@
 {
-    "orgName": "ciorg",
+    "orgName": "CI Scratch",
     "edition": "Developer",
+    "hasSampleData": "false",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+        "enabled": ["S1DesktopEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
     }
 }
